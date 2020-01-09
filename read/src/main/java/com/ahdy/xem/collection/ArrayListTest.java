@@ -6,10 +6,10 @@ import java.util.Arrays;
 public class ArrayListTest {
 
     public static void main(String[] args) {
-        /*ArrayList<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<Integer>();
         list.add(1);
         list.add(2);
-        System.out.println(list);*/
+        System.out.println(list);
 
         int[] srcCopyArray = new int[4];
         srcCopyArray[0] = 1;
