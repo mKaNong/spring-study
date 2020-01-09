@@ -1,0 +1,2 @@
+2020-01-09 15:27:24.455|DEBUG|http-nio-8003-exec-1|com.ahdy.xem.aspectj.PrintLog.doBefore(PrintLog.java:53)|: 根据Id查询接口开始调用:requestData=2
+2020-01-09 15:27:24.463|DEBUG|http-nio-8003-exec-1|com.ahdy.xem.aspectj.PrintLog.doAfterReturning(PrintLog.java:61)|: 根据Id查询接口结束调用:耗时=9ms, result=Person{id= '2', name= 'LiSi', age= 19, area= 'nanjing'}
