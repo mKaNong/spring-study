@@ -4,14 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/read" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/read/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-aop-8003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-aop-8003/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-commom-8000" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-commom-8000/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-ioc-8002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-ioc-8002/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-8001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-8001/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core-test/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -9,9 +9,9 @@ public class ArrayListTest {
         ArrayList<Integer> list = new ArrayList<Integer>();
         list.add(1);
         list.add(2);
-        // System.out.println(list);
+        System.out.println(list);
 
-        int[] srcCopyArray = new int[4];
+      /*  int[] srcCopyArray = new int[4];
         srcCopyArray[0] = 1;
         srcCopyArray[1] = 2;
         srcCopyArray[2] = 3;
@@ -25,7 +25,7 @@ public class ArrayListTest {
         int copyLength = srcCopyArray.length;
 
         System.arraycopy(srcCopyArray, srcCopyBeginIndex, srcCopyArray, dstArrayBeginIndex + 1, copyLength);
-        System.out.println(Arrays.toString(srcCopyArray));
+        System.out.println(Arrays.toString(srcCopyArray));*/
 
     }
 }

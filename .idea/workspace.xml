@@ -2,92 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76e7b2ed-0334-4bd9-9c57-f27a6aacf8d5" name="Default" comment="s1">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/read_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/read_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_1_5_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read/read.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-aop-8003/spring-aop-8003.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-commom-8000/spring-commom-8000.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ioc-8002/spring-ioc-8002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-8001/springboot-8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/bussiness/spring-study_bussiness.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bussiness/spring-study_bussiness.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/spring-study.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/spring-study.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/src/main/java/com/ahdy/xem/collection/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/read/src/main/java/com/ahdy/xem/collection/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/spring-aop-8003.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/AopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/annotation/WebLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/aspectj/PrintLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/dao/PersonDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/dao/impl/PersonDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/service/impl/PersonServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/threadLocal/SessionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/java/com/ahdy/xem/threadLocal/ThreadLocalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/AopApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/annotation/WebLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/aspectj/PrintLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/controller/PersonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/dao/PersonDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/dao/impl/PersonDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/entity/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/service/PersonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/service/impl/PersonServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/threadLocal/SessionHandler$Session.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/threadLocal/SessionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/threadLocal/ThreadLocalTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop-8003/target/classes/com/ahdy/xem/threadLocal/ThreadLocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/spring-commom-8000.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/src/main/java/com/ahdy/xem/SpringCommonApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/src/main/java/com/ahdy/xem/log/LogEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/src/main/java/com/ahdy/xem/log/LogFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/src/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/src/resources/log4j2.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-commom-8000/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/target/classes/com/ahdy/xem/SpringCommonApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/target/classes/com/ahdy/xem/log/LogEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-commom-8000/target/classes/com/ahdy/xem/log/LogFactory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-commom-8000/target/classes/log4j2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/spring-ioc-8002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/Configuration/CacheService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/Configuration/MyConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/Configuration/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/SpringIocApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/dao/PersonDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/dao/PersonDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/java/com/ahdy/xem/service/PersonServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ioc-8002/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-8001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-8001/springboot-8001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-8001/src/main/java/com/ahdy/xem/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-8001/src/main/java/com/ahdy/xem/com/ahdy/xem/SpringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-8001/src/main/java/com/ahdy/xem/com/ahdy/xem/controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-8001/src/main/resources/application.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +117,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1W98DSm6gRiYWKXF0IWwKc2oU7N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -142,23 +137,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebsocketKafka/WebsocketKafka" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-core-mybatis/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\daily\project\spring-study\spring-core-mybatis\src\main\resources" />
+      <recent name="D:\daily\project\spring-study\spring-core-test\src\main\resources" />
+      <recent name="D:\daily\project\spring-study\spring-core-log\src\main\java\com\ahdy\xem\log" />
+      <recent name="D:\daily\project\spring-study\spring-core-log\src\main\resources" />
+      <recent name="D:\daily\project\spring-study\spring-commom-8000\src\main" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\daily\project\spring-study\spring-commom-8000\src\main\java" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\daily\project\spring-study\spring-commom-8000\src\main" />
-      <recent name="D:\daily\project\spring-study\spring-commom-8000\src" />
-      <recent name="D:\daily\project\spring-study\spring-aop-8003\src\main\resources" />
-      <recent name="D:\daily\project\spring-study\spring-ioc-8002\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,7 +164,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AopApplication">
+  <component name="RunManager" selected="Spring Boot.Application (2)">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.collection.ArrayListTest" />
       <module name="read" />
@@ -197,13 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.threadLocal.ThreadLocalTest" />
+    <configuration name="FileUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.utils.FileUtils" />
       <module name="spring-aop-8003" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ahdy.xem.threadLocal.*" />
+          <option name="PATTERN" value="com.ahdy.xem.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,39 +225,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="read" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ahdy.xem.colletion.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ahdy.xem.colletion.list" />
-      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.colletion.list.ArrayList_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayList_Test.arrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="read" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ahdy.xem.colletion.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ahdy.xem.colletion.list" />
-      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.colletion.list.ArrayList_Test" />
-      <option name="METHOD_NAME" value="arrayListTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -272,6 +235,32 @@
     <configuration name="AopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-aop-8003" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ahdy.xem.AopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-core-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahdy.xem.test.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ahdy.xem.test.log.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-core-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahdy.xem.test.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ahdy.xem.test.mybatis.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -307,24 +296,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadLocalTest" />
       <item itemvalue="Application.ArrayList_Test" />
       <item itemvalue="Application.ArrayListTest" />
+      <item itemvalue="Application.FileUtils" />
       <item itemvalue="JUnit.All in read" />
-      <item itemvalue="JUnit.ArrayList_Test" />
-      <item itemvalue="JUnit.ArrayList_Test.arrayListTest" />
       <item itemvalue="Spring Boot.SpringCommonApplication" />
       <item itemvalue="Spring Boot.SpringIocApplication (1)" />
       <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Spring Boot.AopApplication" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="Spring Boot.Application (1)" />
         <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.FileUtils" />
         <item itemvalue="Application.ArrayList_Test" />
-        <item itemvalue="JUnit.ArrayList_Test.arrayListTest" />
-        <item itemvalue="JUnit.ArrayList_Test" />
-        <item itemvalue="Application.ThreadLocalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -332,12 +321,17 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.19129834" />
+          <option name="contentProportion" value="0.18024862" />
           <treeState>
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -391,6 +385,14 @@
       <workItem from="1578559381467" duration="16000" />
       <workItem from="1578571553164" duration="1738000" />
       <workItem from="1578618672346" duration="10000" />
+      <workItem from="1578618794245" duration="3157000" />
+      <workItem from="1578625258772" duration="3258000" />
+      <workItem from="1578636476489" duration="3902000" />
+      <workItem from="1578640460673" duration="103000" />
+      <workItem from="1578644465904" duration="3165000" />
+      <workItem from="1578666330702" duration="1791000" />
+      <workItem from="1578707470380" duration="30000" />
+      <workItem from="1578707771215" duration="11523000" />
     </task>
     <task id="LOCAL-00001" summary="ss">
       <created>1578572626405</created>
@@ -524,22 +526,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="299" y="31" key="#All_in_read_(1)/0.0.1536.834@0.0.1536.834" timestamp="1578554384981" />
-    <state x="261" y="0" key="#Notifications" timestamp="1578551569920">
+    <state x="261" y="0" key="#Notifications" timestamp="1578646430682">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="0" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1578551569920" />
-    <state x="261" y="0" key="#Project_Structure" timestamp="1578572944549">
+    <state x="261" y="0" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1578646430682" />
+    <state x="261" y="0" key="#Project_Structure" timestamp="1578724958792">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1578572944549" />
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1578724958792" />
     <state x="526" y="290" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578550355584">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="526" y="290" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.834@0.0.1536.834" timestamp="1578550355584" />
-    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1578550724154">
+    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1578711598908">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578550724154" />
+    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578711598908" />
     <state x="449" y="142" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578550381621">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -552,42 +554,42 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1578573085225" />
-    <state x="543" y="162" key="FileChooserDialogImpl" timestamp="1578558224744">
+    <state x="543" y="162" key="FileChooserDialogImpl" timestamp="1578647296097">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="543" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578558224744" />
-    <state width="1170" height="171" key="GridCell.Tab.0.bottom" timestamp="1578618982006">
+    <state x="543" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578647296097" />
+    <state width="1186" height="254" key="GridCell.Tab.0.bottom" timestamp="1578728024987">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.0.center" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578728024987" />
+    <state width="1186" height="254" key="GridCell.Tab.0.center" timestamp="1578728024987">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.0.left" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578728024987" />
+    <state width="1186" height="254" key="GridCell.Tab.0.left" timestamp="1578728024987">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.0.right" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578728024987" />
+    <state width="1186" height="254" key="GridCell.Tab.0.right" timestamp="1578728024987">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.1.bottom" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578728024987" />
+    <state width="1186" height="254" key="GridCell.Tab.1.bottom" timestamp="1578728024990">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.1.center" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578728024990" />
+    <state width="1186" height="254" key="GridCell.Tab.1.center" timestamp="1578728024989">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.1.left" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578728024989" />
+    <state width="1186" height="254" key="GridCell.Tab.1.left" timestamp="1578728024988">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
-    <state width="1170" height="171" key="GridCell.Tab.1.right" timestamp="1578618982006">
+    <state width="1186" height="254" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578728024988" />
+    <state width="1186" height="254" key="GridCell.Tab.1.right" timestamp="1578728024990">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1170" height="171" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578618982006" />
+    <state width="1186" height="254" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578728024990" />
     <state width="1170" height="173" key="GridCell.Tab.2.bottom" timestamp="1578554983960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -604,10 +606,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1170" height="173" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1578554983960" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1578572582200">
+    <state x="54" y="0" key="SettingsEditor" timestamp="1578666459398">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578572582200" />
+    <state x="54" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578666459398" />
     <state x="593" y="328" key="VCS.ChangelistChooser" timestamp="1578572471245">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -624,28 +626,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="461" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578550334333" />
-    <state x="221" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578554023524">
+    <state x="221" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578640414609">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="221" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1578554023524" />
+    <state x="221" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1578640414609" />
     <state x="528" y="186" key="git4idea.merge.GitMergeDialog" timestamp="1578573053199">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="528" y="186" key="git4idea.merge.GitMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1578573053199" />
-    <state x="341" y="186" key="run.anything.popup" timestamp="1578558113855">
+    <state x="74" y="134" width="1330" height="621" key="new project wizard" timestamp="1578725056240">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1578558113855" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://E:/tools/development_tool/JDK/JDK85_Install_Directory/src/java/util/ArrayList.java</url>
-          <line>474</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="74" y="134" width="1330" height="621" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1578725056240" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1578724420080">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1578724420080" />
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup" timestamp="1578724551811">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1578724551811" />
   </component>
 </project>

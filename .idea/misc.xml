@@ -7,7 +7,12 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-8000" />
     <file type="web" url="file://$PROJECT_DIR$/spring-aop-8003" />
     <file type="web" url="file://$PROJECT_DIR$/spring-commom-8000" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-core-common" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-core-log" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-core-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-core-test" />
     <file type="web" url="file://$PROJECT_DIR$/spring-ioc-8002" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-ui" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -21,7 +26,11 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/spring-8000/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-aop-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-commom-8000/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-ioc-8002/pom.xml" />
         <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-8001/pom.xml" />
       </set>
     </option>
   </component>

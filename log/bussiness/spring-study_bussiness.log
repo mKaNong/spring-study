@@ -1,2 +1,6 @@
-2020-01-10 09:15:47.203|DEBUG|http-nio-8003-exec-1|com.ahdy.xem.aspectj.PrintLog.doBefore(PrintLog.java:53)|: 根据Id查询接口开始调用:requestData=2
-2020-01-10 09:15:47.213|DEBUG|http-nio-8003-exec-1|com.ahdy.xem.aspectj.PrintLog.doAfterReturning(PrintLog.java:61)|: 根据Id查询接口结束调用:耗时=11ms, result=Person{id= '2', name= 'LiSi', age= 19, area= 'nanjing'}
+2020-01-11 14:20:25.126|DEBUG|main|com.ahdy.xem.test.log.Application.main(Application.java:14)|: bus log....123
+2020-01-11 14:22:18.376|DEBUG|main|com.ahdy.xem.test.log.Application.main(Application.java:14)|: bus log....123
+2020-01-11 14:23:14.415|DEBUG|main|com.ahdy.xem.test.log.Application.main(Application.java:14)|: bus log....123
+2020-01-11 14:23:15.874|DEBUG|main|com.ahdy.xem.test.log.Application.main(Application.java:17)|: spring boot start success!
+2020-01-11 14:24:05.698|DEBUG|main|com.ahdy.xem.test.log.Application.main(Application.java:14)|: bus log....123
+2020-01-11 14:24:07.179|DEBUG|main|com.ahdy.xem.test.log.Application.main(Application.java:17)|: spring boot start success!

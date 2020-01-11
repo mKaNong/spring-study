@@ -1,0 +1,13 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/springcloud?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  ## 用来指定sql映射的xml文件的位置 , 扫描classpath下mapper目录下的所有.xml文件
+  mapper-locations: classpath:mapper/*.xml
+  ## 用来指定实体类的包路径
+  type-aliases-package: com.ahdy.xem.**.bo
