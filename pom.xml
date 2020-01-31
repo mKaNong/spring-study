@@ -16,6 +16,7 @@
         <module>spring-core-test</module>
         <module>spring-core-mybatis</module>
         <module>spring-core-common</module>
+        <module>spring-core-transaction</module>
     </modules>
 
     <parent>
@@ -63,6 +64,19 @@
             <groupId>com.fasterxml.jackson.dataformat</groupId>
             <artifactId>jackson-dataformat-yaml</artifactId>
         </dependency>
+
+        <!--避坑包-->
+        <dependency>
+            <groupId>net.sourceforge.nekohtml</groupId>
+            <artifactId>nekohtml</artifactId>
+            <version>1.9.22</version>
+        </dependency>
+        <!--解析html包-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>

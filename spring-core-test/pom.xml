@@ -17,7 +17,7 @@
     <dependencies>
         <dependency>
             <groupId>com.ahdy.xem</groupId>
-            <artifactId>spring-core-log</artifactId>
+            <artifactId>spring-core-common</artifactId>
             <version>1.0.0</version>
         </dependency>
         <dependency>
