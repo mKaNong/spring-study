@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ahdy.xem.transaction.dao.PersonDao">
+
+        <resultMap id="BaseResultMap" type="com.ahdy.xem.transaction.bo.Person">
+            <result column="id" jdbcType="VARCHAR" property="id" />
+            <result column="name" jdbcType="VARCHAR" property="name" />
+            <result column="age" jdbcType="INTEGER" property="age" />
+            <result column="address" jdbcType="VARCHAR" property="address" />
+            <result column="phone" jdbcType="VARCHAR" property="phone" />
+            <result column="email" jdbcType="VARCHAR" property="email" />
+            <result column="sex" jdbcType="VARCHAR" property="sex" />
+        </resultMap>
+
+     <!--   <insert id="insert" parameterType="Book">
+        insert into book (id, name, author, price)
+        values (#{id,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR}, #{author,jdbcType=VARCHAR},
+        #{price,jdbcType=DOUBLE})
+        </insert>-->
+
+        <select id="queryAll" resultMap="BaseResultMap">
+            select id, name, age, address, phone, email, sex
+            from person
+        </select>
+
+       <select id="queryById" resultMap="BaseResultMap">
+            select id, name, age, address, phone, email, sex
+            from person
+            WHERE id = #{id}
+       </select>
+
+        <update id="update" parameterType="com.ahdy.xem.transaction.bo.Person" flushCache="true">
+            update person
+            <set>
+                <if test="name != null">name =#{name},</if>
+                <if test="age != null">age =#{age},</if>
+                <if test="address != null">address =#{address},</if>
+                <if test="phone != null">phone =#{phone},</if>
+                <if test="email != null">email =#{email},</if>
+                <if test="sex != null">sex =#{sex},</if>
+            </set>
+            where id = #{id}
+        </update>
+
+<!--
+
+    <select id="countByUrl" resultType="int" parameterType="String">
+		select
+		count(app_id)
+		from app
+		where
+		REPLACE(APP_URL,"/","") =
+		REPLACE(#{appUrl},"/","")
+	</select>
+
+    <sql id="insertColumns">
+	    <if test="basicTitle != null">basic_title,</if>
+		<if test="basicDescription != null">basic_description,</if>
+		<if test="basicThumbnails != null">basic_thumbnails,</if>
+		<if test="basicHit != null">basic_hit,</if>
+		<if test="basicCategoryId != null and basicCategoryId &gt; 0">BASIC_CATEGORYID,</if>
+		<if test="basicPeopleId != null">BASIC_PEOPLEID,</if>
+		<if test="basicDateTime != null">BASIC_Datetime,</if>
+		<if test="basicUpdateTime != null">BASIC_updatetime,</if>
+		<if test="basicAppId != null">BASIC_APPID,</if>
+		<if test="basicSort != null">BASIC_SORT,</if>
+		<if test="basicType != null">BASIC_TYPE,</if>
+		<if test="basicModelId != null">BASIC_MODELID,</if>
+		<if test="basicDisplay != null">basic_display,</if>
+	</sql>
+	<sql id="insertValues">
+	    <if test="basicTitle != null">#{basicTitle},</if>
+		<if test="basicDescription != null">#{basicDescription},</if>
+		<if test="basicThumbnails != null">#{basicThumbnails},</if>
+		<if test="basicHit != null">#{basicHit},</if>
+		<if test="basicCategoryId != null and basicCategoryId &gt; 0">#{basicCategoryId},</if>
+		<if test="basicPeopleId != null">#{basicPeopleId},</if>
+		<if test="basicDateTime != null">#{basicDateTime},</if>
+		<if test="basicUpdateTime != null">#{basicUpdateTime},</if>
+		<if test="basicAppId != null">#{basicAppId},</if>
+		<if test="basicSort != null">#{basicSort},</if>
+		<if test="basicType != null">#{basicType},</if>
+		<if test="basicModelId != null">#{basicModelId},</if>
+		<if test="basicDisplay != null">#{basicDisplay},</if>
+	</sql>
+
+    <delete id="deleteEntityByAppId" parameterType="int">
+		delete from basic where
+		basic_id = #{basicId} and basic_appid=#{appId}
+	</delete>
+
+    分页
+    <select id="query" resultMap="resultMap" parameterType="int" databaseId="mysql">
+		select
+		<include refid="column_list" />
+		from basic
+		<where>
+			<include refid="queryBasicWhere"></include>
+			<if test=" keyWord !=null ">
+				and basic_title like CONCAT('%',#{keyWord},'%')
+			</if>
+		</where>
+			<include refid="queryBasicOrderby"></include>
+			<if test=" begin !=null ">
+				limit #{begin}
+			</if>
+			<if test=" end !=null ">
+				,#{end}
+			</if>
+	</select>
+
+    <insert id="saveEntity" useGeneratedKeys="true" keyProperty="basicId" parameterType="net.mingsoft.base.entity.BaseEntity">
+		 insert into basic
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <include refid="insertColumns"></include>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <include refid="insertValues"></include>
+        </trim>
+    </insert>
+
+-->
+
+</mapper>

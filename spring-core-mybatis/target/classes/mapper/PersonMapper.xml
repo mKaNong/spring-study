@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.xem.ahdy.mybatis.mybatis.dao.PersonDao">
+
+        <resultMap id="BaseResultMap" type="com.xem.ahdy.mybatis.mybatis.bo.Person">
+            <result column="id" jdbcType="VARCHAR" property="id" />
+            <result column="name" jdbcType="VARCHAR" property="name" />
+            <result column="age" jdbcType="INTEGER" property="age" />
+            <result column="address" jdbcType="VARCHAR" property="address" />
+            <result column="phone" jdbcType="VARCHAR" property="phone" />
+            <result column="email" jdbcType="VARCHAR" property="email" />
+            <result column="sex" jdbcType="VARCHAR" property="sex" />
+        </resultMap>
+
+
+     <!--   <insert id="insert" parameterType="Book">
+        insert into book (id, name, author,
+        price)
+        values (#{id,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR}, #{author,jdbcType=VARCHAR},
+        #{price,jdbcType=DOUBLE})
+        </insert>-->
+
+        <select id="queryAll" resultMap="BaseResultMap">
+        select id, name, age
+        from person
+        </select>
+
+       <!-- <select id="getById" resultMap="BaseResultMap">
+        select id, name, author, price
+        from book
+        WHERE id = #{id}
+        </select>-->
+
+</mapper>

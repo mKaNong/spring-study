@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76e7b2ed-0334-4bd9-9c57-f27a6aacf8d5" name="Default" comment="s1">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/read_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/read_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/read_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/read_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/bussiness/spring-study_bussiness.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bussiness/spring-study_bussiness.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/spring-study.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/spring-study.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/read/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read/read.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-core-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core-common/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core-common/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core-mybatis/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-core-mybatis/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-core-test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core-test/src/main/java/com/ahdy/xem/test/mybatis/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-core-test/src/main/java/com/ahdy/xem/test/mybatis/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ui/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ui/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-ui/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +38,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Kotlin Class" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -77,6 +60,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="994" />
+  </component>
   <component name="ProjectId" id="1W98DSm6gRiYWKXF0IWwKc2oU7N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -88,6 +77,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -99,7 +89,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578838017048" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/download/WebsocketKafka" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webSocket/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -108,18 +98,19 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\daily\project\spring-study\spring-commom-8000\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.ahdy.xem.common.utils" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\daily\project\spring-study\webSocket\src\main\resources" />
       <recent name="D:\daily\project\spring-study\spring-core-common\src\main\java\com\ahdy\xem\common\constant" />
       <recent name="D:\daily\project\spring-study\spring-core-common\src\main\java\com\ahdy\xem\common\api" />
       <recent name="D:\daily\project\spring-study\spring-core-transaction\src\main\java\com\ahdy\xem\transaction\common" />
       <recent name="D:\daily\project\spring-study\spring-core-transaction\src\main\resources\mapper" />
-      <recent name="D:\daily\project\spring-study\spring-core-transaction\src\main\java\com\ahdy\xem\transaction\aspect" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ahdy.xem.common.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\daily\project\spring-study\webSocket\src\main\resources\templates\index" />
+      <recent name="D:\daily\project\spring-study\spring-commom-8000\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -129,14 +120,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringUtilTest">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.collection.ArrayListTest" />
-      <module name="read" />
+  <component name="RunManager" selected="Spring Boot.WebSocketApplication">
+    <configuration name="Solution_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.leetcode.Solution_1.Solution_1" />
+      <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ahdy.xem.collection.*" />
+          <option name="PATTERN" value="com.ahdy.xem.leetcode.Solution_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,6 +142,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ahdy.xem.test.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahdy.xem.thread.ThreadTest" />
+      <module name="read" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahdy.xem.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +204,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ahdy.xem.test.aop.AopApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-core-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ahdy.xem.test.log.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ahdy.xem.test.log.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -277,6 +269,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebSocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webSocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ahdy.xem.websocket.WebSocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -287,8 +286,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListTest" />
       <item itemvalue="Application.StringUtilTest" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.Solution_1" />
       <item itemvalue="JUnit.All in read" />
       <item itemvalue="Spring Boot.SpringCommonApplication" />
       <item itemvalue="Spring Boot.SpringIocApplication (1)" />
@@ -296,17 +296,17 @@
       <item itemvalue="Spring Boot.AopApplication" />
       <item itemvalue="Spring Boot.Application (3)" />
       <item itemvalue="Spring Boot.TransactionApplication" />
-      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.WebSocketApplication" />
       <item itemvalue="Spring Boot.Application (2)" />
       <item itemvalue="Spring Boot.UiApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringUtilTest" />
+        <item itemvalue="Application.Solution_1" />
+        <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Spring Boot.UiApplication" />
+        <item itemvalue="Application.StringUtilTest" />
         <item itemvalue="Spring Boot.Application (2)" />
-        <item itemvalue="Spring Boot.Application (1)" />
-        <item itemvalue="Application.ArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +314,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.15814917" />
+          <option name="contentProportion" value="0.09668508" />
           <treeState>
             <expand>
               <path>
@@ -392,7 +392,19 @@
       <workItem from="1579050752722" duration="9643000" />
       <workItem from="1579076775391" duration="7000" />
       <workItem from="1579076799354" duration="710000" />
-      <workItem from="1580434926032" duration="1415000" />
+      <workItem from="1580434926032" duration="4865000" />
+      <workItem from="1580694831065" duration="1163000" />
+      <workItem from="1580696847979" duration="18000" />
+      <workItem from="1580696889486" duration="5100000" />
+      <workItem from="1580793017752" duration="344000" />
+      <workItem from="1581036212809" duration="3475000" />
+      <workItem from="1581124091992" duration="2000" />
+      <workItem from="1581124115727" duration="4457000" />
+      <workItem from="1581211088996" duration="1856000" />
+      <workItem from="1581901459388" duration="3045000" />
+      <workItem from="1582160078223" duration="13000" />
+      <workItem from="1582160118232" duration="5632000" />
+      <workItem from="1583629279394" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="ss">
       <created>1578572626405</created>
@@ -547,10 +559,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="299" y="31" key="#All_in_read_(1)/0.0.1536.834@0.0.1536.834" timestamp="1578554384981" />
-    <state x="261" y="0" key="#Notifications" timestamp="1578646430682">
+    <state x="261" y="0" key="#Notifications" timestamp="1581036360723">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="0" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1578646430682" />
+    <state x="261" y="0" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1581036360723" />
     <state x="261" y="0" key="#Project_Structure" timestamp="1578921681324">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -559,10 +571,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="526" y="290" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.834@0.0.1536.834" timestamp="1578836791239" />
-    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1579053660697">
+    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1581211241702">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1579053660697" />
+    <state x="478" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1581211241702" />
     <state x="449" y="142" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578550381621">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -587,38 +599,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="543" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579076809643" />
-    <state width="1485" height="125" key="GridCell.Tab.0.bottom" timestamp="1579062099796">
+    <state width="1307" height="187" key="GridCell.Tab.0.bottom" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1485" height="125" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579062099796" />
-    <state width="1485" height="125" key="GridCell.Tab.0.center" timestamp="1579062099796">
+    <state width="1307" height="187" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.0.center" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1485" height="125" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579062099796" />
-    <state width="1485" height="125" key="GridCell.Tab.0.left" timestamp="1579062099796">
+    <state width="1307" height="187" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.0.left" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1485" height="125" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579062099796" />
-    <state width="1485" height="125" key="GridCell.Tab.0.right" timestamp="1579062099796">
+    <state width="1307" height="187" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.0.right" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1485" height="125" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579062099796" />
-    <state width="1218" height="202" key="GridCell.Tab.1.bottom" timestamp="1579009268567">
+    <state width="1307" height="187" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.1.bottom" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1218" height="202" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579009268567" />
-    <state width="1218" height="202" key="GridCell.Tab.1.center" timestamp="1579009268567">
+    <state width="1307" height="187" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.1.center" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1218" height="202" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579009268567" />
-    <state width="1218" height="202" key="GridCell.Tab.1.left" timestamp="1579009268567">
+    <state width="1307" height="187" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.1.left" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1218" height="202" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579009268567" />
-    <state width="1218" height="202" key="GridCell.Tab.1.right" timestamp="1579009268567">
+    <state width="1307" height="187" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
+    <state width="1307" height="187" key="GridCell.Tab.1.right" timestamp="1582172213796">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1218" height="202" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579009268567" />
+    <state width="1307" height="187" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1582172213796" />
     <state width="1218" height="272" key="GridCell.Tab.2.bottom" timestamp="1579007194507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -635,10 +647,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1218" height="272" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1579007194507" />
-    <state x="54" y="0" key="SettingsEditor" timestamp="1578985878464">
+    <state x="54" y="0" key="SettingsEditor" timestamp="1583629382036">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="54" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578985878464" />
+    <state x="54" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583629382036" />
     <state x="593" y="328" key="VCS.ChangelistChooser" timestamp="1578572471245">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -663,21 +675,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="221" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1578640414609" />
+    <state x="399" y="0" width="737" height="834" key="find.popup" timestamp="1581211462096">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="399" y="0" width="737" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1581211462096" />
     <state x="528" y="186" key="git4idea.merge.GitMergeDialog" timestamp="1578573053199">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="528" y="186" key="git4idea.merge.GitMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1578573053199" />
-    <state x="74" y="134" width="1330" height="621" key="new project wizard" timestamp="1578981848337">
+    <state x="138" y="108" width="1330" height="621" key="new project wizard" timestamp="1583629458019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="74" y="134" width="1330" height="621" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1578981848337" />
-    <state x="341" y="186" key="run.anything.popup" timestamp="1579058047953">
+    <state x="138" y="108" width="1330" height="621" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1583629458019" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1581046317724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1579058047953" />
-    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup" timestamp="1579058939583">
+    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1581046317724" />
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup" timestamp="1581046346328">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1579058939583" />
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581046346328" />
   </component>
 </project>

@@ -17,6 +17,8 @@
         <module>spring-core-mybatis</module>
         <module>spring-core-common</module>
         <module>spring-core-transaction</module>
+        <module>leetcode</module>
+        <module>webSocket</module>
     </modules>
 
     <parent>
